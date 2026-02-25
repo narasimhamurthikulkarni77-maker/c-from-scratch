@@ -4,9 +4,10 @@
 int main()
 {
     int num;
- printf("num is %d\n", num);
     scanf("%d", &num);
+       printf("num is %d\n", num);
+      
    
-     return 0;
+        return 0;
 
 }
